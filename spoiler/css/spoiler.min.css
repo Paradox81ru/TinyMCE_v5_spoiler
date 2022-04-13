@@ -1,0 +1,1 @@
+.spoiler{border:1px solid black;border-radius:2px;padding:1px;margin:0 2px 1rem 2px;overflow:auto;box-shadow:0 0 3px gray}.spoiler .spoiler_head{border:1px dotted black;background:lavender;border-radius:2px;padding:2px 5px;font-weight:bold;font-size:10pt;cursor:pointer}.spoiler .spoiler_body{margin:5px}
